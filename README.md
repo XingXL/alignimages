@@ -48,7 +48,7 @@
 
 <table>
 <tr>
-<td><img src='all/a.jpg' width="140px"></td>
+<td><content/sentiment></td>
 <td><img src='all/a.jpg' width="140px"></td>
 <td><img src='all/b.jpg' width="140px"></td>
 <td><img src='all/c.jpg' width="140px"></td>
