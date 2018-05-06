@@ -1,4 +1,5 @@
 # alignimages
+## negative sentiment
 <table>
 <tr align='center'>
 <td>Sentiment</td>
@@ -45,6 +46,9 @@
 <td><img src='chen schmit/chen_lenna_stylized.jpg' width="140px"></td>
 </tr>
 </table>
+
+## positive sentiment
+
 
 <table>
 <tr>
