@@ -2,6 +2,21 @@
 ## negative sentiment
 <table>
 <tr align='center'>
+<td>Contentment</td>
+<td><img src='emotion_examples/contentment1.jpg' width="140px"></td>
+<td><img src='emotion_examples/contentment2.jpg' width="140px"></td>
+<td><img src='emotion_examples/contentment3.jpg' width="140px"></td>
+<td><img src='emotion_examples/contentment4.jpg' width="140px"></td>
+<td>Content</td>
+<td>Ours</td>
+<td>Gatys et al.</td>
+<td>Ulyanov et al.</td>
+<td>Chen and Schmidt</td>
+</tr>
+
+
+<table>
+<tr align='center'>
 <td>Sentiment</td>
 <td>Content</td>
 <td>Ours</td>
