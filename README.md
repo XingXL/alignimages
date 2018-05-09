@@ -3,15 +3,28 @@
 <table>
 <tr align='center'>
 <td>Contentment</td>
-<td><img src='emotion_examples/contentment1.jpg' width="140px"></td>
-<td><img src='emotion_examples/contentment2.jpg' width="140px"></td>
-<td><img src='emotion_examples/contentment3.jpg' width="140px"></td>
-<td><img src='emotion_examples/contentment4.jpg' width="140px"></td>
-<td>Content</td>
-<td>Ours</td>
-<td>Gatys et al.</td>
-<td>Ulyanov et al.</td>
-<td>Chen and Schmidt</td>
+<td><img src='emotion_exmaples/contentment1.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/contentment2.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/contentment3.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/contentment4.jpg' width="168px"></td>
+</tr>
+<td>Excitement</td>
+<td><img src='emotion_exmaples/excite1.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/excite2.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/excite3.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/excite4.jpg' width="168px"></td>
+</tr>
+<td>Fear</td>
+<td><img src='emotion_exmaples/fear1.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/fear2.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/fear3.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/fear4.jpg' width="168px"></td>
+</tr>
+<td>Sadness</td>
+<td><img src='emotion_exmaples/sad1.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/sad2.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/sad3.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/sad4.jpg' width="168px"></td>
 </tr>
 
 
