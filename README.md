@@ -22,7 +22,7 @@
 </tr>
 <td>Sadness</td>
 <td><img src='emotion_exmaples/sad1.jpg' width="168px"></td>
-<td><img src='emotion_exmaples/sad2.jpg' width="168px"></td>
+<td><img src='emotion_exmaples/sad2.jpeg' width="168px"></td>
 <td><img src='emotion_exmaples/sad3.jpg' width="168px"></td>
 <td><img src='emotion_exmaples/sad4.jpg' width="168px"></td>
 </tr>
