@@ -1,5 +1,5 @@
 # alignimages
-## negative sentiment
+
 <table>
 <tr align='center'>
 <td>Contentment</td>
@@ -75,8 +75,7 @@
 </tr>
 </table>
 
-## positive sentiment
-
+## Excitement sentiment
 
 <table>
 <tr>
