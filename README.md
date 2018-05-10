@@ -101,8 +101,8 @@
 <td><img src='contentment/broken_tree_stylized_contentment1.jpg' width="140px"></td>
 <td><img src='contentment/broken_tree_stylized_contentment2.jpg' width="140px"></td>
 <td><img src='contentment/nn.jpg' width="140px"></td>
-<td><img src='contentment/nn_stylized_contentment1.jpg' width="140px"></td>
-<td><img src='contentment/nn_stylized_contentment2.jpg' width="140px"></td>
+<td><img src='contentment/nn_stylized_a.jpg' width="140px"></td>
+<td><img src='contentment/nn_stylized_g.jpg' width="140px"></td>
 <tr>
 <td><content||sentiment></td>
 <td><img src='fear/fear5.jpg' width="140px"></td>
