@@ -88,14 +88,14 @@
 <td><img src='contentment/contentment2.jpg' width="140px"></td>
 <td><content||sentiment></td>
 <td><img src='all/a.jpg' width="140px"></td>
-<td><img src='all/b.jpg' width="140px"></td>
+<td><img src='all/g.jpg' width="140px"></td>
 <tr>
 <td><img src='contentment/alack_sky.jpg' width="140px"></td>
 <td><img src='contentment/alack_sky_stylized_contentment1.jpg' width="140px"></td>
 <td><img src='contentment/alack_sky_stylized_contentment2.jpg' width="140px"></td>
 <td><img src='all/mm.jpg' width="140px"></td>
 <td><img src='all/mm_stylized_a.jpg' width="140px"></td>
-<td><img src='all/mm_stylized_b.jpg' width="140px"></td>
+<td><img src='all/mm_stylized_g.jpg' width="140px"></td>
 <tr>
 <td><img src='contentment/broken_tree.jpg' width="140px"></td>
 <td><img src='contentment/broken_tree_stylized_contentment1.jpg' width="140px"></td>
