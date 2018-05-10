@@ -28,6 +28,7 @@
 <td><img src='emotion_examples_croped/sad4.jpg' width="168px"></td>
 </tr>
 
+## comparision
 
 <table>
 <tr align='center'>
@@ -75,6 +76,8 @@
 <td><img src='chen schmit/chen_lenna_stylized.jpg' width="140px"></td>
 </tr>
 </table>
+
+## appendix
 
 
 <table>
