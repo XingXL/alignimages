@@ -1,56 +1,6 @@
 # alignimages
 ## examples
 
-## Sadness
-
-<table>
-<tr>
-<td><content||sentiment></td>
-<td><img src='sad/sad1.jpg' width="140px"></td>
-<td><img src='sad/sad2.jpeg' width="140px"></td>
-<td><img src='sad/sad3.jpg' width="140px"></td>
-<td><img src='sad/sad4.jpg' width="140px"></td>
-<td><img src='sad/sad5.jpg' width="140px"></td>
-<tr>
-<td><img src='sad/awe_562.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad1.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad2.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad3.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad4.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad5.jpg' width="140px"></td>
-<tr>
-<td><img src='sad/desert.jpg' width="140px"></td>
-<td><img src='sad/desert_stylized_sad1.jpg' width="140px"></td>
-<td><img src='sad/desert_stylized_sad2.jpg' width="140px"></td>
-<td><img src='sad/desert_stylized_sad3.jpg' width="140px"></td>
-<td><img src='sad/desert_stylized_sad4.jpg' width="140px"></td>
-<td><img src='sad/desert_stylized_sad5.jpg' width="140px"></td>
-<tr>
-<td><img src='sad/dog.jpg' width="140px"></td>
-<td><img src='sad/dog_stylized_sad1.jpg' width="140px"></td>
-<td><img src='sad/dog_stylized_sad2.jpg' width="140px"></td>
-<td><img src='sad/dog_stylized_sad3.jpg' width="140px"></td>
-<td><img src='sad/dog_stylized_sad4.jpg' width="140px"></td>
-<td><img src='sad/dog_stylized_sad5.jpg' width="140px"></td>
-<tr>
-<td><img src='sad/flowers.jpg' width="140px"></td>
-<td><img src='sad/flowers_stylized_sad1.jpg' width="140px"></td>
-<td><img src='sad/flowers_stylized_sad2.jpg' width="140px"></td>
-<td><img src='sad/flowers_stylized_sad3.jpg' width="140px"></td>
-<td><img src='sad/flowers_stylized_sad4.jpg' width="140px"></td>
-<td><img src='sad/flowers_stylized_sad5.jpg' width="140px"></td>
-<tr>
-<td><img src='sad/louyixiao.jpeg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad1.jpg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad2.jpg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad3.jpg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad4.jpg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad5.jpg' width="140px"></td>
-<tr>
-</table>
-
-
-
 <table>
 <tr align='center'>
 <td>Contentment</td>
@@ -125,6 +75,55 @@
 <td><img src='chen schmit/chen_lenna_stylized.jpg' width="140px"></td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td><content||sentiment></td>
+<td><img src='contentment/contentment1.jpg' width="140px"></td>
+<td><img src='contentment/contentment2.jpg' width="140px"></td>
+<td><content||sentiment></td>
+<td><img src='all/a.jpg' width="140px"></td>
+<td><img src='all/b.jpg' width="140px"></td>
+<tr>
+<td><img src='contentment/alack_sky.jpg' width="140px"></td>
+<td><img src='contentment/alack_sky_stylized_contentment1.jpg' width="140px"></td>
+<td><img src='contentment/alack_sky_stylized_contentment2.jpg' width="140px"></td>
+<td><img src='all/mm.jpg' width="140px"></td>
+<td><img src='all/mm_stylized_a.jpg' width="140px"></td>
+<td><img src='all/mm_stylized_b.jpg' width="140px"></td>
+<tr>
+<td><img src='contentment/broken_tree.jpg' width="140px"></td>
+<td><img src='contentment/broken_tree_stylized_contentment1.jpg' width="140px"></td>
+<td><img src='contentment/broken_tree_stylized_contentment2.jpg' width="140px"></td>
+<td><img src='contentment/nn.jpg' width="140px"></td>
+<td><img src='contentment/nn_stylized_contentment1.jpg' width="140px"></td>
+<td><img src='contentment/nn_stylized_contentment2.jpg' width="140px"></td>
+<tr>
+<td><content||sentiment></td>
+<td><img src='fear/fear1.jpg' width="140px"></td>
+<td><img src='fear/fear2.jpg' width="140px"></td>
+<td><content||sentiment></td>
+<td><img src='sad/sad1.jpg' width="140px"></td>
+<td><img src='sad/sad2.jpeg' width="140px"></td>
+<tr>
+<td><img src='fear/1.jpg' width="140px"></td>
+<td><img src='fear/1_stylized_fear1.jpg' width="140px"></td>
+<td><img src='fear/1_stylized_fear2.jpg' width="140px"></td>
+<td><img src='sad/awe_562.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad2.jpg' width="140px"></td>
+<tr>
+<td><img src='fear/2.jpg' width="140px"></td>
+<td><img src='fear/2_stylized_fear1.jpg' width="140px"></td>
+<td><img src='fear/2_stylized_fear2.jpg' width="140px"></td>
+<td><img src='sad/louyixiao.jpeg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad2.jpg' width="140px"></td>
+<tr>
+</table>
+
+
 
 ## Contentment
 
@@ -272,5 +271,51 @@
 <tr>
 </table>
 
+## Sadness
 
+<table>
+<tr>
+<td><content||sentiment></td>
+<td><img src='sad/sad1.jpg' width="140px"></td>
+<td><img src='sad/sad2.jpeg' width="140px"></td>
+<td><img src='sad/sad3.jpg' width="140px"></td>
+<td><img src='sad/sad4.jpg' width="140px"></td>
+<td><img src='sad/sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/awe_562.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/desert.jpg' width="140px"></td>
+<td><img src='sad/desert_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/desert_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/desert_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/desert_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/desert_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/dog.jpg' width="140px"></td>
+<td><img src='sad/dog_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/dog_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/dog_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/dog_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/dog_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/flowers.jpg' width="140px"></td>
+<td><img src='sad/flowers_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/flowers_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/flowers_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/flowers_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/flowers_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/louyixiao.jpeg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad5.jpg' width="140px"></td>
+<tr>
+</table>
 
