@@ -220,3 +220,51 @@
 <td><img src='fear/avril_stylized_fear5.jpg' width="140px"></td>
 <tr>
 </table>
+
+
+## Sadness
+<table>
+<tr>
+<td><content||sentiment></td>
+<td><img src='sad/sad1.jpg' widtsad1h="140px"></td>
+<td><img src='sad/sad2.jpg' width="140px"></td>
+<td><img src='sad/sad3.jpg' width="140px"></td>
+<td><img src='sad/sad4.jpg' width="140px"></td>
+<td><img src='sad/sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/avril.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/awe_562.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad2.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad3.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad4.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/blonde_girl.jpeg' width="140px"></td>
+<td><img src='sad/5_stylized_fear1.jpg' width="140px"></td>
+<td><img src='sad/5_stylized_fear2.jpg' width="140px"></td>
+<td><img src='sad/5_stylized_fear3.jpg' width="140px"></td>
+<td><img src='sad/5_stylized_fear4.jpg' width="140px"></td>
+<td><img src='sad/5_stylized_fear5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/modern.jpg' width="140px"></td>
+<td><img src='sad/modern_stylized_fear1.jpg' width="140px"></td>
+<td><img src='sad/modern_stylized_fear2.jpg' width="140px"></td>
+<td><img src='sad/modern_stylized_fear3.jpg' width="140px"></td>
+<td><img src='sad/modern_stylized_fear4.jpg' width="140px"></td>
+<td><img src='sad/modern_stylized_fear5.jpg' width="140px"></td>
+<tr>
+<td><img src='sad/avril.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_fear1.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_fear2.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_fear3.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_fear4.jpg' width="140px"></td>
+<td><img src='sad/avril_stylized_fear5.jpg' width="140px"></td>
+<tr>
+</table>
