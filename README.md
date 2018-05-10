@@ -28,6 +28,7 @@
 <td><img src='emotion_examples_croped/sad4.jpg' width="168px"></td>
 </tr>
 
+
 ## comparision
 
 <table>
@@ -104,10 +105,10 @@
 <td><img src='contentment/nn_stylized_contentment2.jpg' width="140px"></td>
 <tr>
 <td><content||sentiment></td>
-<td><img src='fear/fear1.jpg' width="140px"></td>
+<td><img src='fear/fear5.jpg' width="140px"></td>
 <td><img src='fear/fear2.jpg' width="140px"></td>
 <td><content||sentiment></td>
-<td><img src='sad/sad1.jpg' width="140px"></td>
+<td><img src='sad/sad3.jpg' width="140px"></td>
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <tr>
 <td><img src='fear/1.jpg' width="140px"></td>
