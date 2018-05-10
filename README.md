@@ -30,8 +30,6 @@
 </tr>
 
 
-## comparision
-
 <table>
 <tr align='center'>
 <td>Sentiment</td>
@@ -83,10 +81,10 @@
 
 <table>
 <tr>
-<td>`Contentment`</td>
+<td>Contentment</td>
 <td><img src='contentment/contentment1.jpg' width="140px"></td>
 <td><img src='contentment/contentment2.jpg' width="140px"></td>
-<td><content||sentiment></td>
+<td>Excitement</td>
 <td><img src='all/a.jpg' width="140px"></td>
 <td><img src='all/g.jpg' width="140px"></td>
 <tr>
@@ -104,10 +102,10 @@
 <td><img src='all/nn_stylized_a.jpg' width="140px"></td>
 <td><img src='all/nn_stylized_g.jpg' width="140px"></td>
 <tr>
-<td><content||sentiment></td>
+<td>Sadness</td>
 <td><img src='fear/fear5.jpg' width="140px"></td>
 <td><img src='fear/fear2.jpg' width="140px"></td>
-<td><content||sentiment></td>
+<td>Fear</td>
 <td><img src='sad/sad3.jpg' width="140px"></td>
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <tr>
