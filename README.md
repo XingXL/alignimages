@@ -1,6 +1,7 @@
 # alignimages
+---
 ## examples
-
+---
 <table>
 <tr align='center'>
 <td>Contentment</td>
@@ -28,8 +29,9 @@
 <td><img src='emotion_examples_croped/sad4.jpg' width="168px"></td>
 </tr>
 
-
+---
 ## comparision
+---
 
 <table>
 <tr align='center'>
@@ -79,11 +81,10 @@
 </table>
 
 ## appendix
-
-
+---
 <table>
 <tr>
-<td><content||sentiment></td>
+<td>`Contentment`</td>
 <td><img src='contentment/contentment1.jpg' width="140px"></td>
 <td><img src='contentment/contentment2.jpg' width="140px"></td>
 <td><content||sentiment></td>
@@ -130,7 +131,7 @@
 
 
 ## Contentment
-
+---
 <table>
 <tr>
 <td><content||sentiment></td>
@@ -180,6 +181,7 @@
 
 
 ## Excitement
+---
 
 <table>
 <tr>
@@ -229,6 +231,7 @@
 
 
 ## Fear
+---
 <table>
 <tr>
 <td><content||sentiment></td>
@@ -276,6 +279,7 @@
 </table>
 
 ## Sadness
+---
 
 <table>
 <tr>
