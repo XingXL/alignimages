@@ -112,17 +112,17 @@
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <tr>
 <td><img src='fear/1.jpg' width="140px"></td>
-<td><img src='fear/1_stylized_fear1.jpg' width="140px"></td>
+<td><img src='fear/1_stylized_fear5.jpg' width="140px"></td>
 <td><img src='fear/1_stylized_fear2.jpg' width="140px"></td>
 <td><img src='sad/awe_562.jpg' width="140px"></td>
-<td><img src='sad/awe_562_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/awe_562_stylized_sad3.jpg' width="140px"></td>
 <td><img src='sad/awe_562_stylized_sad2.jpg' width="140px"></td>
 <tr>
 <td><img src='fear/2.jpg' width="140px"></td>
-<td><img src='fear/2_stylized_fear1.jpg' width="140px"></td>
+<td><img src='fear/2_stylized_fear5.jpg' width="140px"></td>
 <td><img src='fear/2_stylized_fear2.jpg' width="140px"></td>
 <td><img src='sad/louyixiao.jpeg' width="140px"></td>
-<td><img src='sad/louyixiao_stylized_sad1.jpg' width="140px"></td>
+<td><img src='sad/louyixiao_stylized_sad3.jpg' width="140px"></td>
 <td><img src='sad/louyixiao_stylized_sad2.jpg' width="140px"></td>
 <tr>
 </table>
