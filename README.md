@@ -1,6 +1,8 @@
-# alignimages
+alignimages
+========
 
-## examples
+examples
+----------
 
 <table>
 <tr align='center'>
