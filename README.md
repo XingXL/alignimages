@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td><content||sentiment></td>
-<td><img src='sad/sad1.jpg' widtsad1h="140px"></td>
+<td><img src='sad/sad1.jpg' width="140px"></td>
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <td><img src='sad/sad3.jpg' width="140px"></td>
 <td><img src='sad/sad4.jpg' width="140px"></td>
