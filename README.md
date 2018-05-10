@@ -198,7 +198,7 @@
 <td><img src='fear/2_stylized_fear4.jpg' width="140px"></td>
 <td><img src='fear/2_stylized_fear5.jpg' width="140px"></td>
 <tr>
-<td><img src='fear/5.jpg' width="140px"></td>
+<td><img src='fear/5.jpeg' width="140px"></td>
 <td><img src='fear/5_stylized_fear1.jpg' width="140px"></td>
 <td><img src='fear/5_stylized_fear2.jpg' width="140px"></td>
 <td><img src='fear/5_stylized_fear3.jpg' width="140px"></td>
