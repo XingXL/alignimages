@@ -34,12 +34,12 @@ examples
 
 <table>
 <tr align='center'>
-<td>Sentiment</td>
-<td>Content</td>
-<td>Ours</td>
-<td>Gatys et al.</td>
-<td>Ulyanov et al.</td>
-<td>Chen and Schmidt</td>
+<td>情感图像</td>
+<td>内容图像</td>
+<td>本文的方法</td>
+<td>Gatys等人的方法</td>
+<td>Ulyanov等人的方法</td>
+<td>Chen等人的方法</td>
 </tr>
 <tr>
 <td><img src='AdaIN/negative_0.75/a.jpg' width="140px"></td>
@@ -62,13 +62,6 @@ examples
 <td><img src='Slow Gatys/test_negative/chicago_c.jpg' width="140px"></td>
 <td><img src='texture/chicago_stylized.jpg' width="140px"></td>
 <td><img src='chen schmit/chen_chicago_stylized.jpg' width="140px"></td> 
-</tr>
-<td><img src='AdaIN/negative_0.75/l.jpg' width="140px"></td> 
-<td><img src='AdaIN/negative_0.75/lenna.jpg' width="140px"></td>
-<td><img src='AdaIN/negative_0.75/lenna_stylized_l_0.75.jpg' width="140px"></td> 
-<td><img src='Slow Gatys/test_negative/lenna_l.jpg' width="140px"></td> 
-<td><img src='texture/lenna_stylized.jpg' width="140px"></td> 
-<td><img src='chen schmit/chen_lenna_stylized.jpg' width="140px"></td> 
 </tr>
 <td><img src='AdaIN/negative_0.75/m.jpg' width="140px"></td>
 <td><img src='AdaIN/negative_0.75/modern.jpg' width="140px"></td>
