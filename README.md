@@ -76,10 +76,10 @@ examples
 
 <table>
 <tr>
-<td>Contentment</td>
+<td>满足</td>
 <td><img src='contentment/contentment1.jpg' width="140px"></td>
 <td><img src='contentment/contentment2.jpg' width="140px"></td>
-<td>Excitement</td>
+<td>激动</td>
 <td><img src='all/a.jpg' width="140px"></td>
 <td><img src='all/g.jpg' width="140px"></td>
 <tr>
@@ -97,10 +97,10 @@ examples
 <td><img src='all/nn_stylized_a.jpg' width="140px"></td>
 <td><img src='all/nn_stylized_g.jpg' width="140px"></td>
 <tr>
-<td>Sadness</td>
+<td>悲伤</td>
 <td><img src='fear/fear5.jpg' width="140px"></td>
 <td><img src='fear/fear2.jpg' width="140px"></td>
-<td>Fear</td>
+<td>恐惧</td>
 <td><img src='sad/sad3.jpg' width="140px"></td>
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <tr>
