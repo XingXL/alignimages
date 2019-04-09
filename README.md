@@ -124,7 +124,7 @@ examples
 
 <table>
 <tr>
-<td><content||sentiment></td>
+<td>满足</td>
 <td><img src='contentment/contentment1.jpg' width="140px"></td>
 <td><img src='contentment/contentment2.jpg' width="140px"></td>
 <td><img src='contentment/contentment3.jpg' width="140px"></td>
@@ -172,7 +172,7 @@ examples
 
 <table>
 <tr>
-<td><content||sentiment></td>
+<td>激动</td>
 <td><img src='all/a.jpg' width="140px"></td>
 <td><img src='all/b.jpg' width="140px"></td>
 <td><img src='all/c.jpg' width="140px"></td>
@@ -220,7 +220,7 @@ examples
 
 <table>
 <tr>
-<td><content||sentiment></td>
+<td>恐惧</td>
 <td><img src='fear/fear1.jpg' width="140px"></td>
 <td><img src='fear/fear2.jpg' width="140px"></td>
 <td><img src='fear/fear3.jpg' width="140px"></td>
@@ -268,7 +268,7 @@ examples
 
 <table>
 <tr>
-<td><content||sentiment></td>
+<td>悲伤</td>
 <td><img src='sad/sad1.jpg' width="140px"></td>
 <td><img src='sad/sad2.jpeg' width="140px"></td>
 <td><img src='sad/sad3.jpg' width="140px"></td>
